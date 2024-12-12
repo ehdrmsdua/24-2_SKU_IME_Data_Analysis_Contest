@@ -1,4 +1,4 @@
-# Title: The 6rd SKU IME AI,Data_Analysis Contest<br/>
+# Title: The 6th SKU IME AI,Data_Analysis Contest<br/>
 ## Topic: Regression Prediction of Apparel Process Data<br/>
 ## Period: 2024.10 - 2024.11 <br/>
 ## Prize: 1st<br/>
